@@ -251,7 +251,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _direction: {x: 0, y: 1}
-  _impulse: 5
+  _impulse: 3.5
 --- !u!50 &630339735
 Rigidbody2D:
   serializedVersion: 4
@@ -668,6 +668,8 @@ MonoBehaviour:
   _prefabs:
   - {fileID: 5159174393068658102, guid: ad8ef54bfd8049d4897b25e7ec388cca, type: 3}
   - {fileID: 2441028125726398853, guid: 5642e6fa2b16b3f4ca9300a14e245155, type: 3}
+  - {fileID: 5159174393068658102, guid: 1ecb66bb9d9bc8f4191814514e91e19f, type: 3}
+  - {fileID: 2441028125726398853, guid: 0cc3ebef5a7384b48b64b9157137ebd3, type: 3}
 --- !u!4 &1846705571
 Transform:
   m_ObjectHideFlags: 0
